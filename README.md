@@ -1,4 +1,4 @@
-# YWJS3.1Jest
+# HWJS3.1-Jest
  Jest. Unit-тесты и отчёты
 https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md
 
